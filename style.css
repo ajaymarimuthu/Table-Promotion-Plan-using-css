@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:sans-serif;
+    font-size: 14px
+}
+
+.container{
+    
+    margin-top: 20px;
+    width: 750px;
+    background-color:rgb(3, 3, 55) ;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+
+
+h2{
+   text-align: center;
+   color: white;
+     
+}
+
+table,td{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: 15px auto;
+    /* background-color: black; */
+
+    background-color:rgb(3, 3, 55) ;
+    
+}
+
+
+
+.column-one{
+    width: 200px;
+    font-weight:bolder;
+    font-size: 12px;
+    color: black;
+    background-color: white;
+    
+}
+ 
+.column-two{
+    width: 150px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bolder;
+    background-color: orange;
+    color:white;
+    padding: 10px;
+}
+
+.maintext{
+    color: white;
+    padding: 8px;
+    font-size: 12px;
+}
+
+.subtext{
+    text-align: center;
+    color: white;
+    padding: 8px;
+    font-size: 12px;
+}
+
+.bold-values{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.orangetext{
+    color: orange;
+}
+.redtext{
+    color:red;
+}
+.blueetext{
+    color:skyblue;
+}
+
+
+.icon{
+    width: 24px;
+    height: 24px;
+    stroke: orange;
+    font-weight: bolder;
+}
+              
+.column-three{
+    width: 150px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bolder;
+    background-color: red;
+    color:white;
+}
+.column-four{
+    width: 150px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bolder;
+    background-color: skyblue;
+    color:white;
+}
+
+
+.btn{
+    text-align:center ;
+    
+}
+
+button{
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    font-size: 10px;
+    font-weight: 300;
+    padding: 8px 20px;
+}
